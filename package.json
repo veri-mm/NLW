@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/veri-mm/NLW.git"
+    "url": "git+https://github.com/veri-mm/proffy-discovery.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/veri-mm/NLW/issues"
+    "url": "https://github.com/veri-mm/proffy-discovery/issues"
   },
-  "homepage": "https://github.com/veri-mm/NLW#readme",
+  "homepage": "https://github.com/veri-mm/proffy-discovery#readme",
   "dependencies": {
     "express": "^4.17.1",
     "nunjucks": "^3.2.2",
